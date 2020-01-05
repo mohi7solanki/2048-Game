@@ -1,5 +1,9 @@
 import random
 
+i =      input(),
+
+
+[]}
 
 dir_code = {
 	'UP': (1,0),
