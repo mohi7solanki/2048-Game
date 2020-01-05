@@ -1,6 +1,9 @@
 import random
 
 
+a = input()
+
+
 dir_code = {
 	'UP': (1,0),
 	'DOWN': (-1,0),
