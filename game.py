@@ -1,4 +1,6 @@
-import random
+import os
+[]
+import random, sys
 
 
 dir_code = {
