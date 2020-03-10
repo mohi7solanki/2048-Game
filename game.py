@@ -12,7 +12,7 @@ dir_code = {
 SCORE = 0
 
 
-def merge(array):
+def merge(array, unused=None):
 	global SCORE
 	output = [i for i in array if i != 0]
 	for i in range(len(output)-1):
