@@ -103,3 +103,6 @@ if __name__ == '__main__':
 		move = input('Enter the move: ')
 		game.move(move)
 		print('')
+
+		
+import operator
